@@ -100,13 +100,16 @@ Compromised data: Email addresses, Names, Partial credit card data, Passwords, P
 - Yandex inconclusive =(
 
 
-### Step 10 - Delete and Protect the sensitive data.
+### Step 10 - Delete and Protect the sensitive data(If you're doing OSINT to yourself).
 - Changed my Facebook passwd.
 - Request all of those prospect web pages to erase my personal data.
 - That's all.
 
 
-### Extra Step - What you could do next? How you should handle all that personal intel? Would search for more Infos? .... ( USING THESE 10 STEPS IN ANOTHER SEARCH. NOT MYSELF ANYMORE! PLEASE! )
+### Or
+
+
+### Extra Step 10 - What you could do next? How you should handle all that personal intel? Would search for more Infos? .... ( USING THESE 10 STEPS IN ANOTHER SEARCH. NOT MYSELF ANYMORE! PLEASE! )
 - All that comes next is up to You.
 - Visit: <a href="https://osintframework.com/">OSINT Framework</a>.
 - Happy Hunting!
