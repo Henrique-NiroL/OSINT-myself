@@ -1,6 +1,6 @@
 # OSINT-myself
 
-## Build my own path to capture all of my sensitive data available online
+## Build my own path to capture sensitive data available online
 ## Rules:
   - No tools.
   - No advanced google search commands.
