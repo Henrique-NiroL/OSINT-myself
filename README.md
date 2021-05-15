@@ -107,4 +107,6 @@ Compromised data: Email addresses, Names, Partial credit card data, Passwords, P
 
 
 ### Extra Step - What you could do next? How you should handle all that personal intel? Would search for more Infos? .... ( USING THESE 10 STEPS IN ANOTHER SEARCH. NOT MYSELF ANYMORE! PLEASE! )
-- All that comes next is up to You. Visit: <a href="https://osintframework.com/">OSINT Framework</a>. Happy Hunting!
+- All that comes next is up to You.
+- Visit: <a href="https://osintframework.com/">OSINT Framework</a>.
+- Happy Hunting!
