@@ -2,7 +2,7 @@
 
 ## Build my own path to capture sensitive data available online
 ## Rules:
-  - No tools.
+  - No tools (like sherlock, theHarvester, etc).
   - No advanced google search commands.
   - No WayBack Machine.
   - No additional data should be added to make the search easier.
