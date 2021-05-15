@@ -9,7 +9,7 @@
   - No LinkedIn search or derivated tools.
   - No gaming profiles.
   - No deep web or anything that could be considered as advanced or skilled techniques.
-  - The report should be clean, practical, and replicable(at least for Brazilians.
+  - The report should be clean, practical, and replicable(at least for Brazilians).
   - Start's with Full Name (ONLY!) > Henrique **** **** ****.
   - Extra: You can start with your own e-mail at most.
 
